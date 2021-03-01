@@ -11,10 +11,7 @@
     "uninstall-service": "sudo -s forever-service delete bl-mongodb_d"
   },
   "dependencies": {
-    "@onehilltech/blueprint": "^4.28.20",
     "@onehilltech/blueprint-mongodb": "^4.29.2",
-    "mongodb": "^3.6.3",
-    "mongoose": "^5.11.15",
     "pug": "^2.0.4"
   },
   "devDependencies": {
